@@ -6,7 +6,7 @@
         {
             "asset": "0xD29E0bF9F446bbfB86944653919bfb9117681383",
             "type": "ERC20",
-            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "address": "0xD29E0bF9F446bbfB86944653919bfb9117681383",
             "name": "GaslessToken",
             "symbol": "Eth",
             "decimals": 18,
