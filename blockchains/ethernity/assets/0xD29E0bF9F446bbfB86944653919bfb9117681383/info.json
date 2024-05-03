@@ -1,9 +1,9 @@
 {
-    "name": "Ethernity",
-    "type": "ERC20",
-    "symbol": "Eth",
+    "name": "GaslessToken",
+    "type": "Ethernity",
+    "symbol": "GLT",
     "decimals": 18,
-    "website": "https://marketplace.ethernity.io/",
+    "website": "",
     "description": "Ethernity",
     "explorer": "https://dev.ernscan.io/token/0xD29E0bF9F446bbfB86944653919bfb9117681383",
     "status": "active",
