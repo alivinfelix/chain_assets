@@ -1,0 +1,22 @@
+{
+    "name": "Ethernity",
+    "logoURI": "https://raw.githubusercontent.com/alivinfelix/chain_assets/main/blockchains/ethernity/assets/0xD29E0bF9F446bbfB86944653919bfb9117681383/logo.png",
+    "timestamp": "2024-03-18T14:33:26.183301",
+    "tokens": [
+        {
+            "asset": "0xD29E0bF9F446bbfB86944653919bfb9117681383",
+            "type": "ERC20",
+            "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+            "name": "GaslessToken",
+            "symbol": "Eth",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/alivinfelix/chain_assets/main/blockchains/ethernity/assets/0xD29E0bF9F446bbfB86944653919bfb9117681383/logo.png",
+            "pairs": []
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    }
+}
